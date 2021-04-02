@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546468142253",
+    "firebase_url": "https://dari-wholesales.firebaseio.com",
+    "project_id": "dari-wholesales",
+    "storage_bucket": "dari-wholesales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546468142253:android:147764d51e1840fa953a24",
+        "android_client_info": {
+          "package_name": "com.example.dari_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546468142253-f7m5spam72as7ksuhqri62ihp2nnpcrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUo7yULcvTuV4V0qvj-w5txA85LDFI7vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546468142253-f7m5spam72as7ksuhqri62ihp2nnpcrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
